@@ -1,1 +1,1 @@
-Hello World(Master PHP)
+Hello World(S2I PHP)
